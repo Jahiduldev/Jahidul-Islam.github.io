@@ -1,2 +1,2 @@
-# Jahidul-Islam.github.io
-My portfolio website.
+# jugal.github.io
+github.io page
