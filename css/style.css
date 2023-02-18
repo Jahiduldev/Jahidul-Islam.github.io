@@ -55,7 +55,7 @@ img {
 .my-photo {
     width: 200px;
     height: 200px;
-    background-image: url('../image/Jahidul_Islam.jpg');
+    background-image: url('../image/jahidul_islam.jpg');
     background-size: cover;
     /* background-size: cover; */
     background-repeat: no-repeat;
