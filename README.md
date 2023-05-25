@@ -1,2 +1,2 @@
-# jugal.github.io
+# jahiduldev.github.io
 github.io page
